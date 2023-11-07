@@ -10,7 +10,7 @@
 
 |  Student Name	        |  Team		          	        | VM IP                    |  public ssh key          |
 | :-------------------: | :-------------------------: | :----------------------: | :----------------------: |
-|  |  | 172.20.1.11/24 | |
+| Luca Kowitz | 1 | 172.20.1.11/24 | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIN5ov+gGkIrYKl7/1VOdplRSyW2zk8n+v/5DBMIfaEyk luca@Luca-Linux|
 |  |  | 172.20.1.12/24 | |
 |  |  | 172.20.1.13/24 | |
 |  |  | 172.20.1.14/24 | |
