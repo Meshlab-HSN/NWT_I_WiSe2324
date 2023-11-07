@@ -11,7 +11,7 @@
 ...our seminar/lecture repository of the networking group MeshLab @HS-Nodhausen
 
 
-# NWT_I_WiSe23/24
+# NWT I WiSe 23/24
 Repo for the network technology seminar course in winter semester 23/24
 
 MeshLab - Networking Seminar & Material
