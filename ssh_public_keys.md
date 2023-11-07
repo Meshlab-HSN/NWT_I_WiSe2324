@@ -11,8 +11,7 @@
 |  Student Name	        |  Team		          	        | VM IP                    |  public ssh key          |
 | :-------------------: | :-------------------------: | :----------------------: | :----------------------: |
 | Tim Ziemann | 1 | 172.20.1.11/24 | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBdProJezscUd35VYopih3bKNWTypeDQhjqANXAYJYzN bobkatze@Tims-MacBook-Air-2.local |
-| Luca Kowitz | 1 | 172.20.1.11/24 | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIN5ov+gGkIrYKl7/1VOdplRSyW2zk8n+v/5DBMIfaEyk luca@Luca-Linux
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIECo3HFAkkhMDwqDEsu/TqqLnL0MJRU5QYGbobqpRGOL luca@Luca-PC|
+| Luca Kowitz | 1 | 172.20.1.11/24 | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIN5ov+gGkIrYKl7/1VOdplRSyW2zk8n+v/5DBMIfaEyk luca@Luca-Linux / ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIECo3HFAkkhMDwqDEsu/TqqLnL0MJRU5QYGbobqpRGOL luca@Luca-PC|
 | Patrick | 2 | 172.20.1.12/24 | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICuge0ornJKrUQVNePyoViwRqMasDj+s7SKkMN1+BiLj |
 | Robin Franke | 3 | 172.20.1.13/24 |ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAII2HpmbDNa8vCSmp5MK0owcypDYKafaoTFT3FH2UjQuQ robin@LAPTOP-SGTQQ001|
 | Adrian Bernhardt | 4 | 172.20.1.14/24 |ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP5Uon0DLs9jfR3vnEJV86jt9+ssggzk6ZXrLm1pUqcP |
