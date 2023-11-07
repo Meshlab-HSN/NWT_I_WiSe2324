@@ -10,7 +10,7 @@
 
 |  Student Name	        |  Team		          	        | VM IP                    |  public ssh key          |
 | :-------------------: | :-------------------------: | :----------------------: | :----------------------: |
-|  |  | 172.20.1.11/24 | |
+| Adrian Bernhardt | 4 | 172.20.1.11/24 | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP5Uon0DLs9jfR3vnEJV86jt9+ssggzk6ZXrLm1pUqcP|
 |  |  | 172.20.1.12/24 | |
 |  |  | 172.20.1.13/24 | |
 |  |  | 172.20.1.14/24 | |
