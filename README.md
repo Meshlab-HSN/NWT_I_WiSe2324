@@ -8,7 +8,7 @@
 |_|   |_||_______||_______||__| |__||_______||__| |__||_______|
 ```
 
-...our seminar/lecture repository of the networking group MeshLab @HS-Nodhausen
+...our seminar/lecture repository of the networking group MeshLab @HS-Nordhausen
 
 
 # NWT I WiSe 23/24
