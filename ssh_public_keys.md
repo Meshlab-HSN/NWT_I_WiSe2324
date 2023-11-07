@@ -16,5 +16,5 @@
 |  |  | 172.20.1.14/24 | |
 |  |  | 172.20.1.15/24 | |
 |  |  | 172.20.1.16/24 | |
-|  |  | 172.20.1.17/24 | |
+|Kamola  | 7 | 172.20.1.17/24 |ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIB8Byttpe8+zUJzPhh17Ag1cL4zTxLRqX7yu+1bDtw/p User@WIN-ERAATN0G3SA |
 |  |  | 172.20.1.18/24 |  |
