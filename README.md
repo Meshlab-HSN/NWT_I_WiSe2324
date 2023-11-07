@@ -14,5 +14,5 @@
 # NWT I WiSe 23/24
 Repo for the network technology seminar course in winter semester 23/24
 
-MeshLab - Networking Seminar & Material
+MeshLab - Networking Seminar & Material   
 This repository provides sofware tools and documentation used in the Networking courses at HSN (Nordhausen - University of Applied Sciences). To create, configure, run and troubleshoot different network experiments a virtual machine (VM) based on OpenWrt Linux is used.
