@@ -20,6 +20,7 @@
 | 5    | 172.20.1.15/24 | Nico | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJ1ELhHn4eAOY8RWBsTi7TaO787wh9lNbYvM6B6jUBx8 nico@LAPTOP-OI06AT3U |
 | 5    | "              | Till | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHUMAZ1iN1+nDxZR++lEckfoFg0ZeMds3+mQw12TSvwa ttaba@LAPTOP-TiRoTa |
 | 6    | 172.20.1.16/24 | Kamola | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIB8Byttpe8+zUJzPhh17Ag1cL4zTxLRqX7yu+1bDtw/p User@WIN-ERAATN0G3SA |
+| 7    | 172.20.1.17/24 | Marius | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPkm3f7bfM6wWYXDdoxMlJjgP0TLemJL+OWslGl0bDFy mahek@LAPTOP-SK6VI5B4 |
 | 10   | 172.20.1.20/24 | **reserved** | |
 | **AEE/ET group** ||||
 | 11   | 172.20.1.21/24 | Sven | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEqPfqsUSUpsszEDubLVsxNrW9I/Tz+xoAVGiRKGPCQd sven@MacBook-Pro-von-Sven.local |
