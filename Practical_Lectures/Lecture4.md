@@ -7,7 +7,7 @@ In our fourth lecture, we ...
 <br><br>
 
 
-## Changing the TCP congestion algorithm
+## Changing the TCP congestion algorithm globally
 
 To find out which TCP congestion algorithms our VM supports, we can look into the file <code>tcp_available_congestion_control</code>:
 <pre>
@@ -61,6 +61,21 @@ iperf Done.
 Afterward, we repeated the tests for various congestion algorithms and examined their differences.
 <br><br>
 
+## Changing the TCP congestion algorithm with iperf3
+
+If you only want to change the TCP congestion algorithm for a single run, `iperf3` also has an option for that. To accomplish that, `iperf3` makes use of a feature in the Linux kernel to set the TCP congestion algorithm as a TCP socket option.
+To learn more about that socket option, see the [man page for tcp](https://www.man7.org/linux/man-pages/man7/tcp.7.html) and search for `TCP_CONGESTION` in the section of socket options.
+
+Taken from the iperf3 help (`iperf3 --help`) you can see there is a specific option to use that feature:
+```bash
+-C  --congestion <algo>    set TCP congestion control algorithm (Linux and FreeBSD only)
+```
+There you can use the same algorithm name as seen in `/proc/sys/net/ipv4/tcp_available_congestion_control`, e.g.:
+```bash
+iperf3 -c 192.168.1.1 --congestion vegas
+```
+
+---
 
 ## Socket Programming in Python
 
