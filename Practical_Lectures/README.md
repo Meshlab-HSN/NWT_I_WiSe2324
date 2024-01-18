@@ -6,7 +6,7 @@ You can execute the commands on Linux-based operating systems like Debian, Ubunt
 
 Since WSL relies on virtualization, you need to make sure that some required features for this are enabled. If this is not the case and you try to start WSL, it will ask you to enable these features:
 - CPU virtualization support: needs to be enabled in the BIOS/UEFI menu, the actual name of the option depends on your device
-- Virtual Machine Platform feature in Windows: can be activated in `System Settings`->`Apps & Features`->
+- Virtual Machine Platform feature in Windows: can be activated in the Control panel applet `Turn Windows features on or off`
 
 <br>
 
