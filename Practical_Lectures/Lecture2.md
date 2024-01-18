@@ -81,6 +81,7 @@ config zone
 </pre>
 <br>
 
+> For simplicity, we just used one firewall zone for all interfaces which accepts all INPUT, OUTPUT and FORWARDING traffic. Since our setup is virtualised and protected from host-side, this is safe to do here. In real physical networks, this is obviously dangerous!
 
 ## Wireguard Client Setup
 
@@ -176,6 +177,11 @@ rtt min/avg/max/mdev = 121.560/153.195/194.695/28.387 ms
 
 
 ## Sending a picture using netcat
+
+> You will often find that there are different implementations of `netcat`:
+> - `nc`: traditional netcat implementation
+> - `netcat`: OpenBSD-based implementation of netcat. Compared to `nc` it has more features and options to use.
+> - `ncat`: Much-improved reimplementation of the traditional netcat, originating in the Nmap project. It's feature-set can be compared with OpenBSD-netcat.
 
 To send a picture from our VM to our local machine, we need to download one to our VM first (optimally, a relatively big picture). For that, we can either use <code>wget</code> or <code>curl</code>:
 <pre>
