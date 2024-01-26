@@ -41,7 +41,7 @@ And appended the following content:
 <pre>
 config interface 'wg0'
         option proto 'wireguard'
-        option listen_port '20410'
+        option listen_port '&lt;20400 + team number&gt;'
         option private_key '&lt;your private key from wg.key&gt;'
         list addresses '172.20.20.1/24'
 </pre>
@@ -112,7 +112,7 @@ PrivateKey = &lt;the private key of your local machine from wg.key&gt;
 [Peer]
 PublicKey = &lt;the public key of your VM from wg.pub&gt;
 AllowedIPs = 172.20.20.0/24
-EndPoint = evernet.duckdns.org:20410
+EndPoint = evernet.duckdns.org:&lt;20400 + team number&gt;
 </pre>
 <br>
 
